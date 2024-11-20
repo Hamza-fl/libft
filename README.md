@@ -1,0 +1,2 @@
+# libft
+own library
